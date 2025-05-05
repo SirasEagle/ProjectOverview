@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Custom files
+MD.md
+ToDo.txt
+
 # User-specific files
 *.rsuser
 *.suo
